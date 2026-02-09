@@ -17,6 +17,7 @@ COPY . .
 EXPOSE 5000
 
 
+
 CMD [ "node " , "server.js " ]
 
 
@@ -24,3 +25,5 @@ CMD [ "node " , "server.js " ]
 #cd repository 
 #npm install /npm i
 #node .\sever
+
+

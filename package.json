@@ -1,24 +1,17 @@
 {
-  "dependencies": {
-    "express": "^5.2.1"
-  },
-  "name": "dockeryakir",
+  "name": "lab-2---env",
   "version": "1.0.0",
+  "description": "what is ENV? (environment variables)\r examples:\r auth for database\r env for staging/dev\r ports\r log level for info/error",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Melese4/DockerYakir.git"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Melese4/DockerYakir/issues"
-  },
-  "homepage": "https://github.com/Melese4/DockerYakir#readme",
-  "description": ""
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "dotenv": "^16.4.5"
+  }
 }

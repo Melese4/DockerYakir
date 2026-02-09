@@ -11,7 +11,15 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1",
-    "dotenv": "^16.4.5"
-  }
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melese4/DockerYakir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Melese4/DockerYakir/issues"
+  },
+  "homepage": "https://github.com/Melese4/DockerYakir#readme"
 }

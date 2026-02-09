@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "dockeryakir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melese4/DockerYakir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melese4/DockerYakir/issues"
+  },
+  "homepage": "https://github.com/Melese4/DockerYakir#readme",
+  "description": ""
+}
